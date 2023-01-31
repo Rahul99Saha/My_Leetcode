@@ -1,0 +1,37 @@
+class Solution 
+{
+    public boolean detectCapitalUse(String word)
+    { 
+        int len=word.length();
+        char first=word.charAt(0);
+        String word1="";String word2="";String word3="";
+        for(int i=1;i<len;i++)
+        {
+            char ch=word.charAt(i);
+            if(first>='A' && first<='Z')
+            {
+                if(ch>='A' && ch<='Z')
+                {
+                  word1=word1+ch;
+                }
+                else
+                {
+                    word2=word2+ch;
+                }
+            }
+            else
+            {
+                if(ch>='a' && ch<='z')
+                {  
+                    word3=word3+ch;
+                 }
+            }
+        }
+        if((first+word1).equals(word)||(first+word2).equals(word)||(first+word3).equals(word))
+        return true;
+        else
+        return false;
+        }
+}
+
+              
