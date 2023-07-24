@@ -11,7 +11,7 @@ Arr[] = {1,2,3,-2,5}
 <strong>Output:
 </strong>9<strong>
 Explanation:
-</strong>Max subarray sum is 9
+</strong>Max subarray sum is 9 .
 of elements (1, 2, 3, -2, 5) which 
 is a contiguous subarray.</span>
 </pre>
