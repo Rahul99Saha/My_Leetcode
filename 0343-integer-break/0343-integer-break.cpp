@@ -1,18 +1,17 @@
 class Solution {
 public:
-    int integerBreak(int n) {
-        if (n <= 2)
-            return 1;
-        vector<int> maxArr(n+1, 0);
-        maxArr[1] = 0;
-        maxArr[2] = 1; // 2=1+1 so maxArr[2] = 1*1
-        
-        for (int i=3; i<=n; i++) {
-            for (int j=1; j<i; j++) {
-                
-                maxArr[i] = max(maxArr[i], max(j*(i-j), j*maxArr[i-j]));
-            }
+    int integerBreak(int n) 
+    {
+        //Try to include 3 in optimal solution read solution column in leetcode 
+        if(n==2)return 1;
+        if(n==3)return 2;
+        int prod=1;
+        while(n>4)
+        {
+            prod=prod*3;
+            n-=3;
         }
-        return maxArr[n];
+        prod*=n;
+        return prod;
     }
 };
