@@ -1,22 +1,12 @@
 class Solution {
 public:
-    int repeatedNTimes(vector<int>& nums) 
-    {
-        int n = nums.size()/2;
-        int p = 0;
-        unordered_map<int, int> mp;
-        for(int i = 0;i < nums.size();i++)
+    int repeatedNTimes(vector<int>& nums) {
+        int n = nums.size();
+        for(int i =0 ;i < n-2 ;i++)
         {
-            mp[nums[i]]++;
+            if(nums[i]==nums[i+1] || nums[i]==nums[i+2] )
+                return nums[i];
         }
-        for(int i = 0; i < mp.size();i++)
-        {
-            if(mp[i]==n)
-            {
-                p=i;
-                break;
-            }
-        }
-        return p;
+        return nums.back();// For edge cases : [4,1,2,4]
     }
 };
