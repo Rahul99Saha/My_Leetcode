@@ -10,8 +10,17 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0070-climbing-stairs) |
 ## Hash Table
 |  |
 | ------- |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
