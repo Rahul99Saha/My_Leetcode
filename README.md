@@ -8,6 +8,7 @@
 | [0136-single-number](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0136-single-number) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1390-four-divisors](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1390-four-divisors) |
+| [1975-maximum-matrix-sum](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1975-maximum-matrix-sum) |
 ## Math
 |  |
 | ------- |
@@ -30,4 +31,12 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0136-single-number) |
+## Greedy
+|  |
+| ------- |
+| [1975-maximum-matrix-sum](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1975-maximum-matrix-sum) |
+## Matrix
+|  |
+| ------- |
+| [1975-maximum-matrix-sum](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1975-maximum-matrix-sum) |
 <!---LeetCode Topics End-->
