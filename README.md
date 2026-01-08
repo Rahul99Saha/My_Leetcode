@@ -11,6 +11,7 @@
 | [0283-move-zeroes](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0283-move-zeroes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1390-four-divisors](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1390-four-divisors) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1975-maximum-matrix-sum](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1975-maximum-matrix-sum) |
 ## Math
 |  |
@@ -27,6 +28,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0070-climbing-stairs) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 ## Memoization
 |  |
 | ------- |
