@@ -28,6 +28,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0070-climbing-stairs) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 ## Memoization
 |  |
@@ -70,4 +71,8 @@
 | ------- |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+## String
+|  |
+| ------- |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 <!---LeetCode Topics End-->
