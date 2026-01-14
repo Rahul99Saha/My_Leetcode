@@ -18,6 +18,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0189-rotate-array) |
@@ -83,4 +84,8 @@
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
