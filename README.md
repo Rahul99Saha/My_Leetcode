@@ -15,6 +15,7 @@
 | [1390-four-divisors](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1975-maximum-matrix-sum](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1975-maximum-matrix-sum) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/Rahul99Saha/My_Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 ## Math
 |  |
 | ------- |
@@ -90,4 +91,8 @@
 | ------- |
 | [0050-powx-n](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0050-powx-n) |
 | [1922-count-good-numbers](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1922-count-good-numbers) |
+## Sorting
+|  |
+| ------- |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/Rahul99Saha/My_Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 <!---LeetCode Topics End-->
