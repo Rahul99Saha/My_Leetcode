@@ -55,6 +55,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0136-single-number) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Rahul99Saha/My_Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Rahul99Saha/My_Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Rahul99Saha/My_Leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Greedy
@@ -98,6 +99,7 @@
 |  |
 | ------- |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Rahul99Saha/My_Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Geometry
 |  |
 | ------- |
@@ -123,4 +125,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0169-majority-element) |
+## Backtracking
+|  |
+| ------- |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Rahul99Saha/My_Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 <!---LeetCode Topics End-->
