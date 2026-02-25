@@ -43,6 +43,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -98,6 +99,7 @@
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0022-generate-parentheses) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Rahul99Saha/My_Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Geometry
@@ -128,5 +130,6 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0022-generate-parentheses) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Rahul99Saha/My_Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 <!---LeetCode Topics End-->
