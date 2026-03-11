@@ -58,6 +58,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0136-single-number) |
+| [0401-binary-watch](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0401-binary-watch) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Rahul99Saha/My_Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Rahul99Saha/My_Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Rahul99Saha/My_Leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -137,5 +138,6 @@
 | [0022-generate-parentheses](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0040-combination-sum-ii) |
+| [0401-binary-watch](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0401-binary-watch) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Rahul99Saha/My_Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 <!---LeetCode Topics End-->
