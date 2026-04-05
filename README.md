@@ -106,6 +106,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0022-generate-parentheses) |
+| [0657-robot-return-to-origin](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
@@ -147,4 +148,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0020-valid-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [0657-robot-return-to-origin](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0657-robot-return-to-origin) |
 <!---LeetCode Topics End-->
