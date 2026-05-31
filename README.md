@@ -27,6 +27,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1975-maximum-matrix-sum) |
+| [2126-destroying-asteroids](https://github.com/Rahul99Saha/My_Leetcode/tree/master/2126-destroying-asteroids) |
 | [2784-check-if-array-is-good](https://github.com/Rahul99Saha/My_Leetcode/tree/master/2784-check-if-array-is-good) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Rahul99Saha/My_Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Rahul99Saha/My_Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -81,6 +82,7 @@
 | ------- |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1975-maximum-matrix-sum) |
+| [2126-destroying-asteroids](https://github.com/Rahul99Saha/My_Leetcode/tree/master/2126-destroying-asteroids) |
 ## Matrix
 |  |
 | ------- |
@@ -141,6 +143,7 @@
 | [0169-majority-element](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0169-majority-element) |
 | [1200-minimum-absolute-difference](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2126-destroying-asteroids](https://github.com/Rahul99Saha/My_Leetcode/tree/master/2126-destroying-asteroids) |
 | [2784-check-if-array-is-good](https://github.com/Rahul99Saha/My_Leetcode/tree/master/2784-check-if-array-is-good) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Rahul99Saha/My_Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 ## Divide and Conquer
