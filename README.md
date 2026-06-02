@@ -34,6 +34,7 @@
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Rahul99Saha/My_Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Rahul99Saha/My_Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Rahul99Saha/My_Leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Rahul99Saha/My_Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Math
 |  |
 | ------- |
@@ -85,6 +86,7 @@
 | [1975-maximum-matrix-sum](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2126-destroying-asteroids](https://github.com/Rahul99Saha/My_Leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Rahul99Saha/My_Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Rahul99Saha/My_Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Matrix
 |  |
 | ------- |
@@ -98,6 +100,7 @@
 | [0189-rotate-array](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0283-move-zeroes) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Rahul99Saha/My_Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Tree
 |  |
 | ------- |
@@ -149,6 +152,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Rahul99Saha/My_Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2784-check-if-array-is-good](https://github.com/Rahul99Saha/My_Leetcode/tree/master/2784-check-if-array-is-good) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Rahul99Saha/My_Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Rahul99Saha/My_Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -182,6 +186,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Rahul99Saha/My_Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Design
 |  |
 | ------- |
