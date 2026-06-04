@@ -19,6 +19,7 @@
 | [0189-rotate-array](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0874-walking-robot-simulation](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0874-walking-robot-simulation) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1200-minimum-absolute-difference](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1200-minimum-absolute-difference) |
@@ -179,6 +180,7 @@
 | [0225-implement-stack-using-queues](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0503-next-greater-element-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -205,4 +207,5 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
