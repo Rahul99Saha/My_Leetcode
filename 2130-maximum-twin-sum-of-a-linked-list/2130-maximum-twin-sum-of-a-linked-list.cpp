@@ -10,26 +10,29 @@
  */
 class Solution {
 public:
-    int pairSum(ListNode* head) {
-        vector<int>arr;
-        while(head!=NULL)
-        {
-            arr.push_back(head->val);
-            head=head->next;
+    ListNode* reverseList(ListNode* head) {
+        ListNode* prev = NULL,* curr = head,* nextNode = NULL;
+        while (curr != NULL) {
+            nextNode = curr->next;
+            curr->next=prev;
+            prev=curr;
+            curr=nextNode;
         }
-        int i = 0;
-        int j = arr.size()-1;
-        cout<<j<<endl;
-        int sum = 0;
-        int maxi = INT_MIN;
-        while(i<j){
-            sum=arr[i]+arr[j];
-            if(sum>maxi)
-            {
-                maxi = max(sum,maxi);
-            }
-            i++;
-            j--;
+        return prev; 
+    }
+    int pairSum(ListNode* head) {
+        ListNode *p = head;
+        ListNode *q = head;
+        int maxi=0;
+        while(q!=NULL && q->next!=NULL){
+            q = q->next->next;
+            p = p ->next;
+        }
+        p=reverseList(p);
+        while(p != NULL){
+            maxi = max((p->val+head->val),maxi);
+            head = head->next;
+            p = p->next;
         }
         return maxi;
     }
