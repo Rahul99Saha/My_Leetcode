@@ -146,6 +146,7 @@
 | [3120-count-the-number-of-special-characters-i](https://github.com/Rahul99Saha/My_Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Rahul99Saha/My_Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Rahul99Saha/My_Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [3612-process-string-with-special-operations-i](https://github.com/Rahul99Saha/My_Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 ## Geometry
 |  |
 | ------- |
@@ -201,6 +202,7 @@
 | [0657-robot-return-to-origin](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0874-walking-robot-simulation](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0874-walking-robot-simulation) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Rahul99Saha/My_Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3612-process-string-with-special-operations-i](https://github.com/Rahul99Saha/My_Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 ## Binary Search
 |  |
 | ------- |
