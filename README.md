@@ -50,6 +50,7 @@
 | [0070-climbing-stairs](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0189-rotate-array) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1390-four-divisors) |
 | [1922-count-good-numbers](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1922-count-good-numbers) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Rahul99Saha/My_Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
