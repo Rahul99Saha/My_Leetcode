@@ -30,6 +30,7 @@
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1732-find-the-highest-altitude](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1833-maximum-ice-cream-bars](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2126-destroying-asteroids](https://github.com/Rahul99Saha/My_Leetcode/tree/master/2126-destroying-asteroids) |
@@ -94,6 +95,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2126-destroying-asteroids](https://github.com/Rahul99Saha/My_Leetcode/tree/master/2126-destroying-asteroids) |
@@ -164,6 +166,7 @@
 | [0075-sort-colors](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0169-majority-element) |
 | [1200-minimum-absolute-difference](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1200-minimum-absolute-difference) |
+| [1833-maximum-ice-cream-bars](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2126-destroying-asteroids](https://github.com/Rahul99Saha/My_Leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Rahul99Saha/My_Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -238,4 +241,8 @@
 |  |
 | ------- |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Rahul99Saha/My_Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
