@@ -18,6 +18,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -105,6 +106,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0200-number-of-islands) |
 | [1975-maximum-matrix-sum](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1975-maximum-matrix-sum) |
 ## Two Pointers
 |  |
@@ -127,12 +129,14 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0547-number-of-provinces) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0547-number-of-provinces) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
@@ -250,6 +254,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
