@@ -10,18 +10,27 @@
  * };
  */
 class Solution {
-private:
-    void inorder(TreeNode* node,vector<int>& ans) {
-        if(node != NULL){
-            inorder(node->left,ans);
-            ans.push_back(node->val);
-            inorder(node->right,ans);
-        }
-    }
 public:
     vector<int> inorderTraversal(TreeNode* root) {
+        // root = [1,2,3,4,5,null,8,null,null,6,7,9]
+        // stack = [1 ]
+        // ans = [4 2 ]
         vector<int>ans;
-        inorder(root,ans);
+        stack<TreeNode*>st;
+        TreeNode* node = root;
+        if(root == NULL) return ans;
+        while(!st.empty() || node!=NULL){
+            if(node != NULL){
+                st.push(node);
+                node = node -> left;
+            }
+            else {
+                node = st.top();
+                st.pop();
+                ans.push_back(node->val);
+                node = node->right;
+            }
+        }
         return ans;
     }
 };
