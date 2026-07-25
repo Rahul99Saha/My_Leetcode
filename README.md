@@ -134,12 +134,14 @@
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0130-surrounded-regions](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0200-number-of-islands](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0200-number-of-islands) |
@@ -163,6 +165,7 @@
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -222,6 +225,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0155-min-stack](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0225-implement-stack-using-queues) |
