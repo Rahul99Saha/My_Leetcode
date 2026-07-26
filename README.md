@@ -23,6 +23,7 @@
 | [0283-move-zeroes](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0874-walking-robot-simulation) |
 | [0907-sum-of-subarray-minimums](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -56,6 +57,7 @@
 | [0066-plus-one](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0189-rotate-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1266-minimum-time-visiting-all-points](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1390-four-divisors) |
@@ -203,6 +205,7 @@
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0169-majority-element) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1833-maximum-ice-cream-bars](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
