@@ -84,6 +84,7 @@
 | [0042-trapping-rain-water](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0907-sum-of-subarray-minimums) |
@@ -140,6 +141,7 @@
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -148,6 +150,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0130-surrounded-regions](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
@@ -175,6 +178,7 @@
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
