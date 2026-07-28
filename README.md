@@ -229,6 +229,7 @@
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0169-majority-element](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 ## Counting
@@ -299,6 +300,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Rahul99Saha/My_Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Counting Sort
 | Problem Name | Difficulty |
@@ -321,6 +323,7 @@
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0743-network-delay-time](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
@@ -340,4 +343,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 <!---LeetCode Topics End-->
