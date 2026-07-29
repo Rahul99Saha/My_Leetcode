@@ -14,12 +14,9 @@ public:
         while(i<g_size && j<s_size){
             if(g[i]<=s[j]){
                 count++;
-                j++;
                 i++;
             }
-            else{
-                j++;
-            }
+            j++;
         }
         return count;
     }
