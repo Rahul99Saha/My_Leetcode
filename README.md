@@ -22,6 +22,7 @@
 | [0200-number-of-islands](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0283-move-zeroes](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0621-task-scheduler](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0621-task-scheduler/) | Medium |
@@ -112,6 +113,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0455-assign-cookies](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0621-task-scheduler](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0846-hand-of-straights](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0846-hand-of-straights/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1833-maximum-ice-cream-bars) |
@@ -139,6 +141,7 @@
 | [0075-sort-colors](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Rahul99Saha/My_Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Rahul99Saha/My_Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -225,6 +228,7 @@
 | [0075-sort-colors](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0455-assign-cookies](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0621-task-scheduler](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0846-hand-of-straights](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0846-hand-of-straights/) | Medium |
