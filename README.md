@@ -161,6 +161,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Depth-First Search
@@ -174,6 +175,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0200-number-of-islands](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0200-number-of-islands) |
+| [0543-diameter-of-binary-tree](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
@@ -205,6 +207,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## String
