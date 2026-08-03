@@ -30,6 +30,7 @@
 | [0846-hand-of-straights](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0846-hand-of-straights/) | Medium |
 | [0860-lemonade-change](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0860-lemonade-change/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0874-walking-robot-simulation) |
+| [0877-stone-game](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0877-stone-game/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Rahul99Saha/My_Leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
@@ -64,6 +65,7 @@
 | [0070-climbing-stairs](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0877-stone-game](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0877-stone-game/) | Medium |
 | [1266-minimum-time-visiting-all-points](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1390-four-divisors) |
@@ -97,6 +99,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [0877-stone-game](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0877-stone-game/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Rahul99Saha/My_Leetcode/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
@@ -385,4 +388,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0877-stone-game/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0877-stone-game/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
