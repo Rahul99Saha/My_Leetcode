@@ -11,34 +11,17 @@
  */
 class Solution {
 public:
-    vector<int> rightSideView(TreeNode* root) {
-    vector<int> ans;
-    if (root == NULL)
-        return ans;
-
-    queue<TreeNode*> q;
-    q.push(root);
-
-    while (!q.empty()) {
-        int n = q.size();
-        for (int i = 1; i <= n; i++) {
-            TreeNode* top = q.front();
-            q.pop();
-            
-            // If it's the last node of the current level, add it to the result
-            if (i == n) {
-                ans.push_back(top->val);
-            }
-
-            if (top->left != NULL) {
-                q.push(top->left);
-            }
-            if (top->right != NULL) {
-                q.push(top->right);
-            }
-        }
+    //parent,right,left
+    void reverse_preorder(TreeNode* node,int level,vector<int>& ans){
+        if(node == NULL) return;
+        if(ans.size()==level) ans.push_back(node->val); 
+        reverse_preorder(node->right,level+1,ans);
+        reverse_preorder(node->left,level+1,ans);
     }
-    return ans;
-}
-
+    vector<int> rightSideView(TreeNode* root) {
+        vector<int>ans;
+        reverse_preorder(root,0,ans);
+        return ans;
+        
+    }
 };
