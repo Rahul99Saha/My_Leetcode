@@ -57,6 +57,7 @@
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Rahul99Saha/My_Leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Rahul99Saha/My_Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Rahul99Saha/My_Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
+| [3731-find-missing-elements](https://github.com/Rahul99Saha/My_Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -88,6 +89,7 @@
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rahul99Saha/My_Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Rahul99Saha/My_Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Rahul99Saha/My_Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3731-find-missing-elements](https://github.com/Rahul99Saha/My_Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -271,6 +273,7 @@
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rahul99Saha/My_Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Rahul99Saha/My_Leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Rahul99Saha/My_Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3731-find-missing-elements](https://github.com/Rahul99Saha/My_Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
