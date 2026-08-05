@@ -195,6 +195,7 @@
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/Rahul99Saha/My_Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [3310-remove-methods-from-project](https://github.com/Rahul99Saha/My_Leetcode/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -211,6 +212,7 @@
 | [1091-shortest-path-in-binary-matrix](https://github.com/Rahul99Saha/My_Leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/Rahul99Saha/My_Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [3310-remove-methods-from-project](https://github.com/Rahul99Saha/My_Leetcode/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -371,6 +373,7 @@
 | [0743-network-delay-time](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Rahul99Saha/My_Leetcode/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
+| [3310-remove-methods-from-project](https://github.com/Rahul99Saha/My_Leetcode/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
