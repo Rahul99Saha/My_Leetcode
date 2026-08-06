@@ -86,6 +86,7 @@
 | [0846-hand-of-straights](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0846-hand-of-straights/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0874-walking-robot-simulation) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [2784-check-if-array-is-good](https://github.com/Rahul99Saha/My_Leetcode/tree/master/2784-check-if-array-is-good) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rahul99Saha/My_Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Rahul99Saha/My_Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -174,6 +175,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Depth-First Search
@@ -193,6 +195,7 @@
 | [0547-number-of-provinces](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/Rahul99Saha/My_Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
@@ -210,6 +213,7 @@
 | [0547-number-of-provinces](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Rahul99Saha/My_Leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/Rahul99Saha/My_Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
@@ -228,6 +232,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## String
@@ -265,6 +270,7 @@
 | [0621-task-scheduler](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0846-hand-of-straights](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0846-hand-of-straights/) | Medium |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1200-minimum-absolute-difference](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rahul99Saha/My_Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1833-maximum-ice-cream-bars) |
