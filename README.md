@@ -85,6 +85,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0169-majority-element) |
+| [0424-longest-repeating-character-replacement](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0846-hand-of-straights](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0846-hand-of-straights/) | Medium |
@@ -251,6 +252,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0022-generate-parentheses) |
+| [0424-longest-repeating-character-replacement](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -451,6 +453,7 @@
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Rahul99Saha/My_Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Rahul99Saha/My_Leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
