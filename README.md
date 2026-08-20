@@ -457,4 +457,8 @@
 | [0904-fruit-into-baskets](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Rahul99Saha/My_Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Rahul99Saha/My_Leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Rahul99Saha/My_Leetcode/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 <!---LeetCode Topics End-->
