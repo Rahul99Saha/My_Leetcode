@@ -461,4 +461,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Rahul99Saha/My_Leetcode/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Rahul99Saha/My_Leetcode/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 <!---LeetCode Topics End-->
