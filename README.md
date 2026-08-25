@@ -61,6 +61,7 @@
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Rahul99Saha/My_Leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Rahul99Saha/My_Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Rahul99Saha/My_Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Rahul99Saha/My_Leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/Rahul99Saha/My_Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -100,6 +101,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Rahul99Saha/My_Leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Rahul99Saha/My_Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Rahul99Saha/My_Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Rahul99Saha/My_Leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/Rahul99Saha/My_Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
