@@ -47,6 +47,7 @@
 | [1732-find-the-highest-altitude](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1833-maximum-ice-cream-bars](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Rahul99Saha/My_Leetcode/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2126-destroying-asteroids](https://github.com/Rahul99Saha/My_Leetcode/tree/master/2126-destroying-asteroids) |
@@ -144,6 +145,7 @@
 | [0846-hand-of-straights](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0846-hand-of-straights/) | Medium |
 | [0860-lemonade-change](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0860-lemonade-change/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Rahul99Saha/My_Leetcode/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2126-destroying-asteroids](https://github.com/Rahul99Saha/My_Leetcode/tree/master/2126-destroying-asteroids) |
@@ -293,6 +295,7 @@
 | [1200-minimum-absolute-difference](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rahul99Saha/My_Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Rahul99Saha/My_Leetcode/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2126-destroying-asteroids](https://github.com/Rahul99Saha/My_Leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Rahul99Saha/My_Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -354,6 +357,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Rahul99Saha/My_Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Rahul99Saha/My_Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Rahul99Saha/My_Leetcode/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Rahul99Saha/My_Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Design
 | Problem Name | Difficulty |
@@ -378,6 +382,7 @@
 | ------- | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Rahul99Saha/My_Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1732-find-the-highest-altitude) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Rahul99Saha/My_Leetcode/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/Rahul99Saha/My_Leetcode/tree/master/2574-left-and-right-sum-differences) |
 ## Linked List
 | Problem Name | Difficulty |
@@ -461,6 +466,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Rahul99Saha/My_Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Rahul99Saha/My_Leetcode/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Rahul99Saha/My_Leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Database
 | Problem Name | Difficulty |
