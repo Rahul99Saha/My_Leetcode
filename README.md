@@ -11,6 +11,7 @@
 | [0039-combination-sum](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0042-trapping-rain-water) |
+| [0063-unique-paths-ii](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0066-plus-one](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -111,6 +112,7 @@
 | [0022-generate-parentheses](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0062-unique-paths/) | Medium |
+| [0063-unique-paths-ii](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0070-climbing-stairs](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
@@ -157,6 +159,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0063-unique-paths-ii](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0130-surrounded-regions](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0200-number-of-islands) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Rahul99Saha/My_Leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
