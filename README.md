@@ -283,6 +283,7 @@
 | [0657-robot-return-to-origin](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0796-rotate-string](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0796-rotate-string/) | Easy |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rahul99Saha/My_Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -511,6 +512,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0796-rotate-string](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0796-rotate-string/) | Easy |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
