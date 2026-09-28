@@ -74,6 +74,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0050-powx-n](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0066-plus-one) |
@@ -95,6 +96,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0169-majority-element](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -276,6 +278,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0022-generate-parentheses) |
