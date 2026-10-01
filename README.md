@@ -107,6 +107,7 @@
 | [0904-fruit-into-baskets](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Rahul99Saha/My_Leetcode/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/Rahul99Saha/My_Leetcode/tree/master/2784-check-if-array-is-good) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rahul99Saha/My_Leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rahul99Saha/My_Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -290,6 +291,7 @@
 | [0796-rotate-string](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0796-rotate-string/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/Rahul99Saha/My_Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Rahul99Saha/My_Leetcode/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rahul99Saha/My_Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rahul99Saha/My_Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -343,6 +345,7 @@
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0169-majority-element) |
 | [0621-task-scheduler](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0621-task-scheduler/) | Medium |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Rahul99Saha/My_Leetcode/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rahul99Saha/My_Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
