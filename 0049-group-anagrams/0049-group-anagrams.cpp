@@ -17,7 +17,7 @@ public:
             }
             for(int i = 0;i<26;i++){
                 while(freq[i] > 0){
-                    temp += i+'a';
+                    temp += char(i+'a');
                     freq[i]--;
                 }
             }
