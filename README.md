@@ -14,6 +14,7 @@
 | [0039-combination-sum](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0066-plus-one](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0066-plus-one) |
@@ -101,6 +102,7 @@
 | [0001-two-sum](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0013-roman-to-integer/) | Easy |
+| [0049-group-anagrams](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0169-majority-element](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -289,6 +291,7 @@
 | [0014-longest-common-prefix](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0205-isomorphic-strings](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0657-robot-return-to-origin) |
@@ -318,6 +321,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
