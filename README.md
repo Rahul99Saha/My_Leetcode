@@ -67,6 +67,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/Rahul99Saha/My_Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2574-left-and-right-sum-differences](https://github.com/Rahul99Saha/My_Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2784-check-if-array-is-good](https://github.com/Rahul99Saha/My_Leetcode/tree/master/2784-check-if-array-is-good) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Rahul99Saha/My_Leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Rahul99Saha/My_Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rahul99Saha/My_Leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Rahul99Saha/My_Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -118,6 +119,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Rahul99Saha/My_Leetcode/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/Rahul99Saha/My_Leetcode/tree/master/2784-check-if-array-is-good) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Rahul99Saha/My_Leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rahul99Saha/My_Leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rahul99Saha/My_Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Rahul99Saha/My_Leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -564,4 +566,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Rahul99Saha/My_Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Rahul99Saha/My_Leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Rahul99Saha/My_Leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 <!---LeetCode Topics End-->
