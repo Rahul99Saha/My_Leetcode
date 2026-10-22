@@ -73,6 +73,7 @@
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Rahul99Saha/My_Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Rahul99Saha/My_Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Rahul99Saha/My_Leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Rahul99Saha/My_Leetcode/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Rahul99Saha/My_Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Rahul99Saha/My_Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Rahul99Saha/My_Leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -125,6 +126,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Rahul99Saha/My_Leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Rahul99Saha/My_Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Rahul99Saha/My_Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Rahul99Saha/My_Leetcode/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Rahul99Saha/My_Leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/Rahul99Saha/My_Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 ## Dynamic Programming
@@ -347,6 +349,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rahul99Saha/My_Leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rahul99Saha/My_Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Rahul99Saha/My_Leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Rahul99Saha/My_Leetcode/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Rahul99Saha/My_Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3731-find-missing-elements](https://github.com/Rahul99Saha/My_Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 ## Divide and Conquer
