@@ -15,6 +15,7 @@
 | [0040-combination-sum-ii](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0049-group-anagrams/) | Medium |
+| [0054-spiral-matrix](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0066-plus-one](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0066-plus-one) |
@@ -186,6 +187,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0130-surrounded-regions](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0130-surrounded-regions) |
@@ -394,6 +396,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0874-walking-robot-simulation) |
