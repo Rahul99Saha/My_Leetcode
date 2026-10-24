@@ -95,6 +95,7 @@
 | [1344-angle-between-hands-of-a-clock](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1390-four-divisors) |
 | [1922-count-good-numbers](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1922-count-good-numbers) |
+| [2409-count-days-spent-together](https://github.com/Rahul99Saha/My_Leetcode/tree/main/2409-count-days-spent-together/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rahul99Saha/My_Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Rahul99Saha/My_Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Rahul99Saha/My_Leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
@@ -314,6 +315,7 @@
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Rahul99Saha/My_Leetcode/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [2409-count-days-spent-together](https://github.com/Rahul99Saha/My_Leetcode/tree/main/2409-count-days-spent-together/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rahul99Saha/My_Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rahul99Saha/My_Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Rahul99Saha/My_Leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
