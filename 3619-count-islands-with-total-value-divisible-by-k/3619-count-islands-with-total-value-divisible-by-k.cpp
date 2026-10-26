@@ -11,7 +11,7 @@ public:
             int nrow = row + drow[i];
             int ncol = col + dcol[i];
             if(nrow>=0 && nrow<m && ncol>=0 && ncol<n && grid[nrow][ncol]>0 &&!visited[nrow][ncol]){
-                sum+=dfs(grid,nrow,ncol,visited,0);
+                sum+=dfs(grid,nrow,ncol,visited,sum);
             }
         }
         return sum;
