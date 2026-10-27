@@ -11,18 +11,17 @@
  */
 class Solution {
 public:
-    bool check_equal(TreeNode* p, TreeNode* q){
-        if(p == NULL && q == NULL) return true;
-        if(p == NULL || q == NULL) return false;
-        if(p->val!=q->val) return false;
-        return check_equal(p->left,q->left) && check_equal(p->right,q->right);
+    bool identical(TreeNode* p, TreeNode* q){
+        if(p==NULL && q==NULL) return true;
+        if(p == NULL && q!=NULL || p != NULL && q==NULL) return false;
+        if(p->val != q->val) return false;
+        return identical(p->left,q->left) && identical(p->right,q->right);
     }
     bool isSubtree(TreeNode* root, TreeNode* subRoot) {
-        if(root == NULL ) return false;
-        if(check_equal(root,subRoot))
-        return true;
-        bool l = isSubtree(root -> left, subRoot);
-        bool r = isSubtree(root ->right, subRoot);
-        return l || r;
+        if(root == NULL) return false;
+        TreeNode *p = root;
+        TreeNode *q = subRoot;
+        if(identical(p,q)) return true;
+        return isSubtree(p->left,subRoot) || isSubtree(p->right,subRoot);
     }
 };
