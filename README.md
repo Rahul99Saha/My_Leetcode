@@ -36,6 +36,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0455-assign-cookies](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0455-assign-cookies/) | Easy |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0518-coin-change-ii/) | Medium |
@@ -95,6 +96,7 @@
 | [0070-climbing-stairs](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0189-rotate-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0877-stone-game/) | Medium |
 | [1266-minimum-time-visiting-all-points](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
@@ -357,6 +359,7 @@
 | [0169-majority-element](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0455-assign-cookies](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0455-assign-cookies/) | Easy |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0621-task-scheduler](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0846-hand-of-straights](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0846-hand-of-straights/) | Medium |
