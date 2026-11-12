@@ -24,6 +24,7 @@
 | [0120-triangle](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0130-surrounded-regions](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -125,6 +126,7 @@
 | [0013-roman-to-integer](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0049-group-anagrams](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
+| [0128-longest-consecutive-sequence](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -492,6 +494,7 @@
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0130-surrounded-regions](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0547-number-of-provinces) |
