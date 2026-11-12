@@ -42,6 +42,7 @@
 | [0496-next-greater-element-i](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0518-coin-change-ii/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0621-task-scheduler](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0735-asteroid-collision](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0735-asteroid-collision/) | Medium |
@@ -131,6 +132,7 @@
 | [0205-isomorphic-strings](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0621-task-scheduler](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0846-hand-of-straights](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0846-hand-of-straights/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0874-walking-robot-simulation) |
@@ -476,6 +478,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Rahul99Saha/My_Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Rahul99Saha/My_Leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
