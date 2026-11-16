@@ -349,6 +349,7 @@
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Rahul99Saha/My_Leetcode/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Rahul99Saha/My_Leetcode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2409-count-days-spent-together](https://github.com/Rahul99Saha/My_Leetcode/tree/main/2409-count-days-spent-together/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rahul99Saha/My_Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rahul99Saha/My_Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -444,6 +445,7 @@
 | [1260-shift-2d-grid](https://github.com/Rahul99Saha/My_Leetcode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1518-water-bottles](https://github.com/Rahul99Saha/My_Leetcode/tree/main/1518-water-bottles/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Rahul99Saha/My_Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Rahul99Saha/My_Leetcode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/Rahul99Saha/My_Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 ## Binary Search
 | Problem Name | Difficulty |
