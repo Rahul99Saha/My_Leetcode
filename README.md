@@ -83,6 +83,7 @@
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Rahul99Saha/My_Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Rahul99Saha/My_Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Rahul99Saha/My_Leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Rahul99Saha/My_Leetcode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Rahul99Saha/My_Leetcode/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Rahul99Saha/My_Leetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Rahul99Saha/My_Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -487,6 +488,7 @@
 | [1732-find-the-highest-altitude](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Rahul99Saha/My_Leetcode/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/Rahul99Saha/My_Leetcode/tree/master/2574-left-and-right-sum-differences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Rahul99Saha/My_Leetcode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -577,6 +579,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Rahul99Saha/My_Leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Rahul99Saha/My_Leetcode/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Rahul99Saha/My_Leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/Rahul99Saha/My_Leetcode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
