@@ -352,6 +352,7 @@
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Rahul99Saha/My_Leetcode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2409-count-days-spent-together](https://github.com/Rahul99Saha/My_Leetcode/tree/main/2409-count-days-spent-together/) | Easy |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Rahul99Saha/My_Leetcode/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rahul99Saha/My_Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rahul99Saha/My_Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Rahul99Saha/My_Leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
