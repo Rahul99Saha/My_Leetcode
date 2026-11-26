@@ -65,6 +65,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Rahul99Saha/My_Leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rahul99Saha/My_Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Rahul99Saha/My_Leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Rahul99Saha/My_Leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -112,6 +113,7 @@
 | [1344-angle-between-hands-of-a-clock](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1390-four-divisors) |
 | [1518-water-bottles](https://github.com/Rahul99Saha/My_Leetcode/tree/main/1518-water-bottles/) | Easy |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Rahul99Saha/My_Leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1922-count-good-numbers](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1922-count-good-numbers) |
 | [2409-count-days-spent-together](https://github.com/Rahul99Saha/My_Leetcode/tree/main/2409-count-days-spent-together/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rahul99Saha/My_Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -178,6 +180,7 @@
 | [0877-stone-game](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0877-stone-game/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/Rahul99Saha/My_Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Rahul99Saha/My_Leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Rahul99Saha/My_Leetcode/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [3693-climbing-stairs-ii](https://github.com/Rahul99Saha/My_Leetcode/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Rahul99Saha/My_Leetcode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
@@ -491,6 +494,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/Rahul99Saha/My_Leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Rahul99Saha/My_Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Rahul99Saha/My_Leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Rahul99Saha/My_Leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Rahul99Saha/My_Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Rahul99Saha/My_Leetcode/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/Rahul99Saha/My_Leetcode/tree/master/2574-left-and-right-sum-differences) |
